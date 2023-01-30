@@ -1,0 +1,578 @@
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.exe
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.deps.json
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.runtimeconfig.json
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.runtimeconfig.dev.json
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.dll
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.pdb
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.Views.dll
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.Views.pdb
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.csproj.AssemblyReference.cache
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.AssemblyInfoInputs.cache
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.AssemblyInfo.cs
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.csproj.CoreCompileInputs.cache
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.RazorAssemblyInfo.cache
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.RazorAssemblyInfo.cs
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\staticwebassets\ProjectWebApp.StaticWebAssets.Manifest.cache
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\staticwebassets\ProjectWebApp.StaticWebAssets.xml
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProjectWebApp.styles.css
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.TagHelpers.input.cache
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.TagHelpers.output.cache
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.RazorCoreGenerate.cache
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.RazorTargetAssemblyInfo.cache
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.RazorTargetAssemblyInfo.cs
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.Views.pdb
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.dll
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.pdb
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.genruntimeconfig.cache
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.csproj.CopyComplete
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.exe
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.deps.json
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.runtimeconfig.json
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.runtimeconfig.dev.json
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.dll
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.pdb
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.Views.dll
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.Views.pdb
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.csproj.AssemblyReference.cache
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.AssemblyInfoInputs.cache
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.AssemblyInfo.cs
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.csproj.CoreCompileInputs.cache
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.RazorAssemblyInfo.cache
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.RazorAssemblyInfo.cs
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\staticwebassets\ProjectWebApp.StaticWebAssets.Manifest.cache
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\staticwebassets\ProjectWebApp.StaticWebAssets.xml
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProjectWebApp.styles.css
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.TagHelpers.input.cache
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.TagHelpers.output.cache
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.RazorCoreGenerate.cache
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\NewProject.cshtml.g.cs
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.Views.pdb
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.csproj.CopyComplete
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.dll
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.pdb
+C:\Users\kaykt\Downloads\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.genruntimeconfig.cache
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\ViewProjects.cshtml.g.cs
+D:\VC\PROG 2B\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\NewProject.cshtml.g.cs
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.StaticWebAssets.xml
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.exe
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.deps.json
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.runtimeconfig.json
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.runtimeconfig.dev.json
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.pdb
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.Views.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.Views.pdb
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.csproj.AssemblyReference.cache
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.AssemblyInfoInputs.cache
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.AssemblyInfo.cs
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.csproj.CoreCompileInputs.cache
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.RazorAssemblyInfo.cache
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.RazorAssemblyInfo.cs
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\staticwebassets\ProjectWebApp.StaticWebAssets.Manifest.cache
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.TagHelpers.input.cache
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.TagHelpers.output.cache
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.RazorCoreGenerate.cache
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\NewProject.cshtml.g.cs
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\ViewProjects.cshtml.g.cs
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.Views.pdb
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.csproj.CopyComplete
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.pdb
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.genruntimeconfig.cache
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\kryst\OneDrive\Desktop\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Register.cshtml.g.cs
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.StaticWebAssets.xml
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.exe
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.deps.json
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.runtimeconfig.json
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.runtimeconfig.dev.json
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.pdb
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.Views.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.Views.pdb
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\EntityFramework.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.csproj.AssemblyReference.cache
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.AssemblyInfoInputs.cache
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.AssemblyInfo.cs
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.csproj.CoreCompileInputs.cache
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.MvcApplicationPartsAssemblyInfo.cache
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.RazorAssemblyInfo.cache
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.RazorAssemblyInfo.cs
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\staticwebassets\ProjectWebApp.StaticWebAssets.Manifest.cache
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.TagHelpers.input.cache
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.TagHelpers.output.cache
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.RazorCoreGenerate.cache
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Register.cshtml.g.cs
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.RazorTargetAssemblyInfo.cache
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.RazorTargetAssemblyInfo.cs
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.Views.pdb
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.csproj.CopyComplete
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.pdb
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.genruntimeconfig.cache
+F:\BCAD\Semester 4\PROG6212\POE\Part3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Login.cshtml.g.cs
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.StaticWebAssets.xml
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.exe
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.deps.json
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.runtimeconfig.json
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.runtimeconfig.dev.json
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.pdb
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.Views.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ProjectWebApp.Views.pdb
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\EntityFramework.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.csproj.AssemblyReference.cache
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.AssemblyInfoInputs.cache
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.AssemblyInfo.cs
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.csproj.CoreCompileInputs.cache
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.MvcApplicationPartsAssemblyInfo.cache
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.RazorAssemblyInfo.cache
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.RazorAssemblyInfo.cs
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\staticwebassets\ProjectWebApp.StaticWebAssets.Manifest.cache
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.TagHelpers.input.cache
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.TagHelpers.output.cache
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.RazorCoreGenerate.cache
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Login.cshtml.g.cs
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Register.cshtml.g.cs
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.RazorTargetAssemblyInfo.cache
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.RazorTargetAssemblyInfo.cs
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.Views.pdb
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.csproj.CopyComplete
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.dll
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.pdb
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\ProjectWebApp.genruntimeconfig.cache
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\addModule.cshtml.g.cs
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\addStudyHours.cshtml.g.cs
+F:\BCAD\Semester 4\PROG6212\POE\Part 3\ProjectWebApp\ProjectWebApp\ProjectWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\editSemDetails.cshtml.g.cs

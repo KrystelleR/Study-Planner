@@ -1,0 +1,77 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 style="color:white" class ="display-4">Welcome back @Model.username</h1>
+</div>
+<br />
+
+<marquee behavior="scroll" direction="left">
+<h2 style="color:#214a30">Happy @Model.wk ! @Model.Notification </h2>
+</marquee>
+
+<br />
+<h2>My Modules</h2>
+<br />
+
+<form class="row g-3">
+    <div class="col-md-6">        
+        <a style="background-color:#48a169" class="btn btn-primary" href="/addModule">Add a New Module</a>
+    </div>
+</form>
+
+
+<table class="table table-bordered">
+    <thead style="background-color:darkgray; color:black;">
+        <tr>
+            <td>Module Code</td>
+            <td>Module Name</td>
+            <td>Number of Credits</td>
+            <td>Class hours in a week</td>
+            <td>Study hours required per week</td>
+            <td>Study hours remaining this week</td>
+            <td>Scheduled day to Study Module</td>
+            <td>Add Study Hours</td>
+        </tr>
+    </thead>
+    <tbody style="background-color:white;">
+
+       @foreach (var sub in Model.SubjectsList)
+       {
+        <tr>
+            <td>@sub.ModuleCode</td>
+            <td>@sub.ModuleName</td>
+            <td>@sub.Credits</td>
+            <td>@sub.ClassHours</td>
+            <td>@sub.StudyHoursPW</td>
+            <td>@sub.StudyHoursLeft</td>
+            <td>@sub.StudyDay</td>
+            <td>
+                <a class="btn btn-success" href="/addStudyHours/@sub.ModuleCode" >Add </a>
+                
+            </td>
+        </tr>
+       }
+    </tbody>
+</table>
+                   <div class="d-flex align-items-center justify-content-center pb-4">
+                    <p class="mb-0 me-2">@Model.value1</p>
+                    <a asp-area="" asp-page="/addModule">@Model.value2</a>
+                  </div>
+<br>
+<div class="form-outline mb-4" >
+<label style="color:black;">Semester Weeks</label>  <label style="color:white;" name="lblSemWeeks" asp-for="@Model.semesterWeeks">@Model.semesterWeeks</label>
+</div>
+<div class="form-outline mb-4" >
+<label style="color:black;">Semester Start Date</label>  <label style="color:white;" name="lblSemStart" asp-for="@Model.display">@Model.display</label> 
+</div>
+
+<form class="row g-3">
+    <div class="col-md-6">        
+        <a style="background-color:#48a169;" class="btn btn-primary" href="/editSemDetails">Edit Semester Details</a>
+    </div>
+</form>
+

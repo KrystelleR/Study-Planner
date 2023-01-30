@@ -1,0 +1,2 @@
+References:
+Troelsen, A. and Japikse, P., n.d. Pro C# 9 with .NET 5.

@@ -1,0 +1,59 @@
+﻿@page
+@model ProjectWebApp.Pages.UserPages.addModuleModel
+@{
+    ViewData["Title"] = "Add Module Page";
+}
+
+<section class="h-100 gradient-form">
+  <div class="container py-5 h-100">
+    <div class="row d-flex justify-content-center align-items-center h-100">
+      <div class="col-xl-10">
+        <div class="card rounded-3 text-black" style="background-color:White">
+              <div class="card-body p-md-5 mx-md-4">
+
+
+              <h2 class="text-uppercase text-center mb-5">Add a new Module</h2>
+
+              <form method="post">
+
+                <div class="form-outline mb-4">
+                  <input type="text" id="form3Example1cg" class="form-control form-control-lg" name="txtModCode" placeholder="Module Code" />
+                </div>
+
+                <div class="form-outline mb-4">
+                  <input type="text" id="form3Example3cg" class="form-control form-control-lg" name="txtModName" placeholder="Module Name"/>
+                </div>
+
+                <div class="form-outline mb-4">
+                  <input type="number" id="form3Example4cg" class="form-control form-control-lg" name="txtCredits" placeholder="Credits"/>
+                </div>
+
+                <div class="form-outline mb-4">
+                  <input type="number" id="form3Example4cdg" class="form-control form-control-lg" name="txtclassHours" placeholder="Class hours per week"/>
+                </div>
+
+                                <div class=""form-outline mb-4"">
+                              <label for="exampleSelect1" class="form-label mt-4">On which day do you want to study this module?</label>
+                              <select class="form-control form-control-lg" name="dayOfTheWeek" id="exampleSelect1">
+                                <option>Monday</option>
+                                <option>Tuesday</option>
+                                <option>Wednesday</option>
+                                <option>Thursday</option>
+                                <option>Friday</option>
+                                <option>Saturday</option>
+                                <option>Sunday</option>
+                              </select>
+                  </div>
+
+                <label style="color:red;" asp-for="Message">@Model.Message</label> 
+                <div class="d-flex justify-content-center">
+                  <button style="background-color:#48a169" type="submit" class="btn btn-primary btn-block fa-lg gradient-custom-2 mb-3">Add Module</button>
+                </div>
+              </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+

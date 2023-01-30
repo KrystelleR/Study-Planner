@@ -1,0 +1,38 @@
+﻿@page
+@model ProjectWebApp.Pages.editSemDetailsModel
+@{
+}
+<section class="h-100 gradient-form">
+  <div class="container py-5 h-100">
+    <div class="row d-flex justify-content-center align-items-center h-100">
+      <div class="col-xl-10">
+        <div class="card rounded-3 text-black" style="background-color:white">
+              <div class="card-body p-md-5 mx-md-4">
+
+              <h2 class="text-uppercase text-center mb-5">Edit Semester Details</h2>
+
+
+            <form method="post"> 
+                    <div class="form-outline mb-4" >  
+                         <label asp-for="@Model.semesterStart" class="form-label">Semester Weeks</label>
+                         <input type="number" asp-for="@Model.semesterWeeks" class="form-control" id="inputWeeks" name="txtSemWeeks" placeholder="Semester Weeks">
+                    </div>
+
+                    <div class="form-outline mb-4">
+                        <label asp-for="@Model.semesterStart" class="form-label">Start Date</label>
+                        <input asp-for="@Model.semesterStart" type="date" class="form-control" id="inputSemStart" name="txtSemStart">
+                    </div>
+
+                    <label style="color:red;" asp-for="Message">@Model.Message</label> 
+                    <div class="d-flex justify-content-center"></div>
+
+                                    <div class="d-flex justify-content-center">                 
+                  <button style="background-color:#48a169" type="submit" class="btn btn-primary btn-block fa-lg gradient-custom-2 mb-3">Save all Changes</button>
+                </div>
+                    </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

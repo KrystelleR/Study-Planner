@@ -1,0 +1,96 @@
+﻿@page
+@model ProjectWebApp.Pages.RegisterModel
+@{
+    ViewData["Title"] = "Register page";
+}
+
+<section class="h-100 gradient-form">
+  <div class="container py-5 h-100">
+    <div class="row d-flex justify-content-center align-items-center h-100">
+      <div class="col-xl-10">
+        <div class="card rounded-3 text-black">
+              <div class="card-body p-md-5 mx-md-4">
+
+                <div class="text-center">
+                  <img src="https://i.ibb.co/1LsQW8H/register-image.png"
+                    style="width: 185px;" alt="logo">
+                  <h4 class="mt-1 mb-5 pb-1">Module Manager</h4>
+                </div>
+
+                <form method="post">
+                  <h5>To get started, fill in the below form</h5>
+
+                <div class="form-outline mb-4" >  
+                    <input type="text" asp-for="signup.name" class="form-control" id="inputName" name="txtName" placeholder="Name">
+                    </div>
+
+                    <div class="form-outline mb-4">
+                        <input type="text" asp-for="signup.surname" class="form-control" id="inputSurname" name="txtSurname" placeholder="Surname">     
+                    </div>
+
+                    <div class="form-outline mb-4">
+                        <input type="text" asp-for="signup.username" class="form-control" id="inputUsername" name="txtUsername" placeholder="Username">     
+                    </div>
+
+                    <div class="form-outline mb-4">
+                        <input type="password" asp-for="signup.password" class="form-control" id="inputPassword" name="txtPassword" placeholder="Password">     
+                    </div>
+
+                    <div class="form-outline mb-4">
+                        <input type="password" asp-for="signup.confirmPassword" class="form-control" id="inputConfirmPassword" name="txtConfirmPassword" placeholder="Confirm Password"> 
+                    </div>
+
+                    <h5>Please add your semester weeks and start date (you can always edit this later on)</h5>
+                     <div class="form-outline mb-4" >  
+                         <label asp-for="@Model.semesterWeeks" class="form-label">Semester Weeks</label>
+                         <input type="number" asp-for="@Model.semesterWeeks" class="form-control" id="inputWeeks" name="txtSemWeeks" placeholder="Semester Weeks">
+                    </div>
+
+                    <div class="form-outline mb-4">
+                        <label asp-for="@Model.semesterStart" class="form-label">Start Date</label>
+                        <input asp-for="@Model.semesterStart" type="date" class="form-control" id="inputSemStart" name="txtSemStart">
+                    </div>
+
+                    <label style="color:red;" asp-for="Message">@Model.Message</label>   
+
+                  <div class="text-center pt-1 mb-5 pb-1">
+                    <button class="btn btn-primary btn-block fa-lg gradient-custom-2 mb-3" style="background-color:#48a169; color:black" type="submit">Register</button>
+                  </div>
+
+                  <div class="d-flex align-items-center justify-content-center pb-4">
+                    <p class="mb-0 me-2">Already have an Account? </p>
+                    <a asp-area="" asp-page="/Login">Login here</a>
+                  </div>
+
+                </form>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

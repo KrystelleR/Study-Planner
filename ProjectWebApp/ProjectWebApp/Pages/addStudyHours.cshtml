@@ -1,0 +1,48 @@
+﻿@page "{id}"
+@model ProjectWebApp.Pages.addStudyHoursModel
+@{
+    ViewData["Title"] = "Add Module Page";
+}
+
+<section class="h-100 gradient-form">
+  <div class="container py-5 h-100">
+    <div class="row d-flex justify-content-center align-items-center h-100">
+      <div class="col-xl-10">
+        <div class="card rounded-3 text-black" style="background-color:white">
+              <div class="card-body p-md-5 mx-md-4">
+
+              <h2 class="text-uppercase text-center mb-5">Add Study Hours</h2>
+
+              <form method="post">
+
+                <div class="form-outline mb-4">
+                    <label style="color:black;">Module Code</label> 
+                  <label id="form3Example3cg" class="form-control form-control-lg" style="background-color:lightgray" name="txtModCode">@Model.label1</label> 
+                </div>
+
+                <div class="form-outline mb-4">
+                    <label style="color:black;">Hours remaining for the week</label> 
+                  <label id="form3Example3cg" class="form-control form-control-lg" style="background-color:lightgray"  name="txtHrsRem">@Model.label2</label> 
+                </div>
+
+                <div class="form-outline mb-4">
+                  <input type="number" id="form3Example4cdg" class="form-control form-control-lg" name="txtHrsDone" placeholder="Add your Hours Done"/>
+                </div>
+
+                 <div class="form-outline mb-4">
+                     <label style="color:black;">Date Done</label> 
+                  <input type="date" id="form3Example4cdg" class="form-control form-control-lg" name="txtDateDone"/>
+                </div>
+                 
+                 <label style="color:red;" asp-for="Message">@Model.Message</label> 
+
+                <div class="d-flex justify-content-center">                 
+                  <button style="background-color:#48a169" type="submit" class="btn btn-primary btn-block fa-lg gradient-custom-2 mb-3">Add Module</button>
+                </div>
+              </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
